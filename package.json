@@ -1,0 +1,7 @@
+{
+  "name": "dgram",
+  "version": "1.0.0",
+  "description": "Dummy dgram for react native packager",
+  "main": "index.js",
+  "license": "MIT"
+}
